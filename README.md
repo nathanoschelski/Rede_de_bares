@@ -2,7 +2,7 @@
 Exercício de Padrões de Projeto sobre uma rede de Bares - FDS
 
 
-nunciado
+ENUNCIADO
 
 Desenvolva sua solução, com testes unitários e colocando seu código sob controle de versão (git
 Discutiremos os primeiros padrões de projeto sobre este exercício
